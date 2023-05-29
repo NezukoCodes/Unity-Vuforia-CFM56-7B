@@ -1,4 +1,10 @@
 # unityAR
+
+DATE: 18022021 - 18052021
+DIFFICULTY: ★★☆☆☆
+SOFTWARE: UNITY, VUFORIA
+
+
 My very first programming project I did during my Internship days at ST Engineering.
 
 I briefly remember my days as a Polytechnic student doing my internship in that company. I was assigned this project with a fellow partner to create an app that utilizes Augmented Reality
